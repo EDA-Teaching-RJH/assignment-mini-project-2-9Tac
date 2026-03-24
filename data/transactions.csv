@@ -1,0 +1,5 @@
+transaction_id,date,description,amount,category,transaction_type,recurring,frequency,next_due
+76212669,2025-03-01,Salary,2000.0,Income,income,False,,
+7fcadf52,2025-03-05,Tesco shop,45.5,Food,expense,False,,
+0236eafe,2025-03-10,Bus pass,30.0,Transport,expense,False,,
+c1f6de83,2025-03-01,Monthly rent,850.0,Housing,expense,True,monthly,2025-04-01

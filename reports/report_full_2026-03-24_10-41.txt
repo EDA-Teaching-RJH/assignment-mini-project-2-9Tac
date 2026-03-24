@@ -1,0 +1,27 @@
+=======================================================
+  SMART FINANCE TRACKER
+  Full Financial Report
+  Generated: 24 March 2026 at 10:41
+=======================================================
+
+SUMMARY
+------------------------------
+  Total Income:    £2000.00
+  Total Expenses:  £925.50
+  Balance:         £1074.50
+  Transactions:    4
+
+BUDGET STATUS
+------------------------------
+  Food            £45.50 / £100.00 (45.5%) [OK]
+
+TRANSACTIONS
+------------------------------
+  [76212669] 2025-03-01 | Income | Salary | £2000.00 (income)
+  [7fcadf52] 2025-03-05 | Food | Tesco shop | £45.50 (expense)
+  [0236eafe] 2025-03-10 | Transport | Bus pass | £30.00 (expense)
+  [c1f6de83] 2025-03-01 | Housing | Monthly rent | £850.00 (expense) [RECURRING: monthly, next due: 2025-04-01]
+
+=======================================================
+  End of report
+=======================================================
